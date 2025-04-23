@@ -37,6 +37,13 @@ h6 {margin: 0cm;}
             background-image: url('img/img/graph.jpg');
 }
 
+
+/*non credo sia il modo corretto ma hey!*/
+ul {
+  padding-inline-start: 15px;
+
+}
+
 /*tabella */
 table {border-collapse: collapse;}
 
