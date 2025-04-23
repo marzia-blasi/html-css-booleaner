@@ -49,10 +49,10 @@ table {border-collapse: collapse;}
 
 /*prima riga non mi cambia il background color non capisco perchè*/ 
 thead {color: white;
-  background-color: #4ea1ff4f;
+  background-color: #4ea0ff;
 }
 
-tr {background-color: #4ea0ff;}
+tbody {background-color:  #21d8de5b;} 
 
 /*seconda alternata */ 
 .alternate {background-color: white;}
