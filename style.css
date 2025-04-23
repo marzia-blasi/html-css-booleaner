@@ -36,3 +36,10 @@ h6 {margin: 0cm;}
             color: white;
             background-image: url('img/img/graph.jpg');
 }
+
+/*tabella */ 
+/*prima riga */ 
+thead {color: white;background-color: #4ea0ff;}
+
+/*seconda riga */ 
+
