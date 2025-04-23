@@ -1,8 +1,15 @@
+main {max-width: 1080px;
+  margin: 0 auto;}
 
 
 header { background-color: #4ea0ff;
         background-image: url('img/img/pattern.png');
 }    
+
+.logo {
+  padding: 10px;
+  height: 100px;
+  width: 800px;}
 
 h1 {margin-bottom: 0cm;}
 
@@ -15,6 +22,7 @@ a {color: #3cb4e7; text-decoration: none;}
 
 h6 {margin: 0cm;}
 
+/* qua mi sono ripetuta ma non ho trovato un modo migliore */
 .fotofine1 {
             width: 311px;
             height: 207px;
