@@ -37,9 +37,16 @@ h6 {margin: 0cm;}
             background-image: url('img/img/graph.jpg');
 }
 
-/*tabella */ 
-/*prima riga */ 
-thead {color: white;background-color: #4ea0ff;}
+/*tabella */
+table {border-collapse: collapse;}
 
-/*seconda riga */ 
+/*prima riga non mi cambia il background color non capisco perchè*/ 
+thead {color: white;
+  background-color: #4ea1ff4f;
+}
+
+tr {background-color: #4ea0ff;}
+
+/*seconda alternata */ 
+.alternate {background-color: white;}
 
